@@ -1,0 +1,127 @@
+D:\DOAN\DigitalShop\DigitalShop\bin\Release\netcoreapp2.1\DigitalShop.deps.json
+D:\DOAN\DigitalShop\DigitalShop\bin\Release\netcoreapp2.1\DigitalShop.runtimeconfig.json
+D:\DOAN\DigitalShop\DigitalShop\bin\Release\netcoreapp2.1\DigitalShop.runtimeconfig.dev.json
+D:\DOAN\DigitalShop\DigitalShop\bin\Release\netcoreapp2.1\DigitalShop.dll
+D:\DOAN\DigitalShop\DigitalShop\bin\Release\netcoreapp2.1\DigitalShop.pdb
+D:\DOAN\DigitalShop\DigitalShop\bin\Release\netcoreapp2.1\DigitalShop.Views.dll
+D:\DOAN\DigitalShop\DigitalShop\bin\Release\netcoreapp2.1\DigitalShop.Views.pdb
+D:\DOAN\DigitalShop\DigitalShop\bin\Release\netcoreapp2.1\DigitalShop.Entity.dll
+D:\DOAN\DigitalShop\DigitalShop\bin\Release\netcoreapp2.1\DigitalShop.Service.dll
+D:\DOAN\DigitalShop\DigitalShop\bin\Release\netcoreapp2.1\DigitalShop.Service.pdb
+D:\DOAN\DigitalShop\DigitalShop\bin\Release\netcoreapp2.1\DigitalShop.Entity.pdb
+D:\DOAN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\DigitalShop.csprojAssemblyReference.cache
+D:\DOAN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\DigitalShop.csproj.CoreCompileInputs.cache
+D:\DOAN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\DigitalShop.RazorAssemblyInfo.cache
+D:\DOAN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\DigitalShop.RazorAssemblyInfo.cs
+D:\DOAN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\DigitalShop.AssemblyInfoInputs.cache
+D:\DOAN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\DigitalShop.AssemblyInfo.cs
+D:\DOAN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\DigitalShop.TagHelpers.input.cache
+D:\DOAN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\DigitalShop.TagHelpers.output.cache
+D:\DOAN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\DigitalShop.RazorCoreGenerate.cache
+D:\DOAN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\Razor\Areas\Admin\Views\AdminCategory\_ListCategory.g.cshtml.cs
+D:\DOAN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\Razor\Areas\Admin\Views\AdminCategory\_UpdateCategory.g.cshtml.cs
+D:\DOAN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\Razor\Areas\Admin\Views\AdminCustomer\_ListCustomer.g.cshtml.cs
+D:\DOAN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\Razor\Areas\Admin\Views\AdminImport\_AddImport.g.cshtml.cs
+D:\DOAN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\Razor\Areas\Admin\Views\AdminImport\_ImportDetail.g.cshtml.cs
+D:\DOAN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\Razor\Areas\Admin\Views\AdminImport\_ListImport.g.cshtml.cs
+D:\DOAN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\Razor\Areas\Admin\Views\AdminLogin\_AdminLogin.g.cshtml.cs
+D:\DOAN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\Razor\Areas\Admin\Views\AdminManagement\_ListAdmin.g.cshtml.cs
+D:\DOAN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\Razor\Areas\Admin\Views\AdminManagement\_NotHaveAccess.g.cshtml.cs
+D:\DOAN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\Razor\Areas\Admin\Views\AdminManagement\_UpdateAdmin.g.cshtml.cs
+D:\DOAN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\Razor\Areas\Admin\Views\AdminManufacturer\_ListManufacturer.g.cshtml.cs
+D:\DOAN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\Razor\Areas\Admin\Views\AdminManufacturer\_UpdateManufacturer.g.cshtml.cs
+D:\DOAN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\Razor\Areas\Admin\Views\AdminOrder\_AddNewOrder.g.cshtml.cs
+D:\DOAN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\Razor\Areas\Admin\Views\AdminOrder\_ListOrder.g.cshtml.cs
+D:\DOAN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\Razor\Areas\Admin\Views\AdminOrder\_OrderDetail.g.cshtml.cs
+D:\DOAN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\Razor\Areas\Admin\Views\AdminProduct\_ListProduct.g.cshtml.cs
+D:\DOAN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\Razor\Areas\Admin\Views\AdminProduct\_UpdateProduct.g.cshtml.cs
+D:\DOAN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\Razor\Areas\Admin\Views\AdminReport\_ListTopSeller.g.cshtml.cs
+D:\DOAN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\Razor\Areas\Admin\Views\AdminReport\_ListTopView.g.cshtml.cs
+D:\DOAN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\Razor\Areas\Admin\Views\AdminReport\_OrderSumary.g.cshtml.cs
+D:\DOAN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\Razor\Areas\Admin\Views\HomeAdmin\Index.g.cshtml.cs
+D:\DOAN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_AdminLayout.g.cshtml.cs
+D:\DOAN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\Razor\Views\Cart\_CheckOut.g.cshtml.cs
+D:\DOAN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\Razor\Views\Customer\_CustomerInfomation.g.cshtml.cs
+D:\DOAN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\DOAN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\DOAN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\DOAN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\Razor\Views\Product\_ListProductByCategory.g.cshtml.cs
+D:\DOAN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\Razor\Views\Product\_ListSearchResult.g.cshtml.cs
+D:\DOAN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\Razor\Views\Product\_SingleProduct.g.cshtml.cs
+D:\DOAN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\DOAN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\DOAN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\Razor\Views\Shared\_WebLayout.g.cshtml.cs
+D:\DOAN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\DOAN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\DOAN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\DigitalShop.RazorTargetAssemblyInfo.cache
+D:\DOAN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\DigitalShop.RazorTargetAssemblyInfo.cs
+D:\DOAN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\DigitalShop.Views.pdb
+D:\DOAN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\DigitalShop.csproj.CopyComplete
+D:\DOAN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\DigitalShop.dll
+D:\DOAN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\DigitalShop.pdb
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitalShop\bin\Release\netcoreapp2.1\appsettings.Development.json
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitalShop\bin\Release\netcoreapp2.1\appsettings.json
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitalShop\bin\Release\netcoreapp2.1\bower.json
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitalShop\bin\Release\netcoreapp2.1\bundleconfig.json
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitalShop\bin\Release\netcoreapp2.1\DigitalShop.deps.json
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitalShop\bin\Release\netcoreapp2.1\DigitalShop.runtimeconfig.json
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitalShop\bin\Release\netcoreapp2.1\DigitalShop.runtimeconfig.dev.json
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitalShop\bin\Release\netcoreapp2.1\DigitalShop.dll
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitalShop\bin\Release\netcoreapp2.1\DigitalShop.pdb
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitalShop\bin\Release\netcoreapp2.1\DigitalShop.Views.dll
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitalShop\bin\Release\netcoreapp2.1\DigitalShop.Views.pdb
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitalShop\bin\Release\netcoreapp2.1\DigitalShop.Entity.dll
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitalShop\bin\Release\netcoreapp2.1\DigitalShop.Service.dll
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitalShop\bin\Release\netcoreapp2.1\DigitalShop.Service.pdb
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitalShop\bin\Release\netcoreapp2.1\DigitalShop.Entity.pdb
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\DigitalShop.csprojAssemblyReference.cache
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\DigitalShop.AssemblyInfoInputs.cache
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\DigitalShop.AssemblyInfo.cs
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\DigitalShop.csproj.CoreCompileInputs.cache
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\DigitalShop.RazorAssemblyInfo.cache
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\DigitalShop.RazorAssemblyInfo.cs
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\DigitalShop.TagHelpers.input.cache
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\DigitalShop.TagHelpers.output.cache
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\DigitalShop.RazorCoreGenerate.cache
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\Razor\Areas\Admin\Views\AdminCategory\_ListCategory.cshtml.g.cs
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\Razor\Areas\Admin\Views\AdminCategory\_UpdateCategory.cshtml.g.cs
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\Razor\Areas\Admin\Views\AdminCustomer\_ListCustomer.cshtml.g.cs
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\Razor\Areas\Admin\Views\AdminImport\_AddImport.cshtml.g.cs
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\Razor\Areas\Admin\Views\AdminImport\_ImportDetail.cshtml.g.cs
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\Razor\Areas\Admin\Views\AdminImport\_ListImport.cshtml.g.cs
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\Razor\Areas\Admin\Views\AdminLogin\_AdminLogin.cshtml.g.cs
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\Razor\Areas\Admin\Views\AdminManagement\_ListAdmin.cshtml.g.cs
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\Razor\Areas\Admin\Views\AdminManagement\_NotHaveAccess.cshtml.g.cs
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\Razor\Areas\Admin\Views\AdminManagement\_UpdateAdmin.cshtml.g.cs
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\Razor\Areas\Admin\Views\AdminManufacturer\_ListManufacturer.cshtml.g.cs
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\Razor\Areas\Admin\Views\AdminManufacturer\_UpdateManufacturer.cshtml.g.cs
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\Razor\Areas\Admin\Views\AdminOrder\_AddNewOrder.cshtml.g.cs
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\Razor\Areas\Admin\Views\AdminOrder\_ListOrder.cshtml.g.cs
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\Razor\Areas\Admin\Views\AdminOrder\_OrderDetail.cshtml.g.cs
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\Razor\Areas\Admin\Views\AdminProduct\_ListProduct.cshtml.g.cs
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\Razor\Areas\Admin\Views\AdminProduct\_UpdateProduct.cshtml.g.cs
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\Razor\Areas\Admin\Views\AdminReport\_ListTopSeller.cshtml.g.cs
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\Razor\Areas\Admin\Views\AdminReport\_ListTopView.cshtml.g.cs
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\Razor\Areas\Admin\Views\AdminReport\_OrderSumary.cshtml.g.cs
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\Razor\Areas\Admin\Views\HomeAdmin\Index.cshtml.g.cs
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_AdminLayout.cshtml.g.cs
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\Razor\Views\Cart\_CheckOut.cshtml.g.cs
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\Razor\Views\Customer\_CustomerInfomation.cshtml.g.cs
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\Razor\Views\Product\_ListProductByCategory.cshtml.g.cs
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\Razor\Views\Product\_ListSearchResult.cshtml.g.cs
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\Razor\Views\Product\_SingleProduct.cshtml.g.cs
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\Razor\Views\Shared\_WebLayout.cshtml.g.cs
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\DigitalShop.RazorTargetAssemblyInfo.cache
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\DigitalShop.RazorTargetAssemblyInfo.cs
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\DigitalShop.Views.pdb
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\DigitalShop.csproj.CopyComplete
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\DigitalShop.dll
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\DigitalShop.pdb
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitalShop\obj\Release\netcoreapp2.1\DigitalShop.genruntimeconfig.cache

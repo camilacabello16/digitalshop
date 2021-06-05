@@ -1,0 +1,18 @@
+D:\DOAN\DigitalShop\DigitalShop.Model\bin\Release\netcoreapp2.1\DigitalShop.Entity.deps.json
+D:\DOAN\DigitalShop\DigitalShop.Model\bin\Release\netcoreapp2.1\DigitalShop.Entity.dll
+D:\DOAN\DigitalShop\DigitalShop.Model\bin\Release\netcoreapp2.1\DigitalShop.Entity.pdb
+D:\DOAN\DigitalShop\DigitalShop.Model\obj\Release\netcoreapp2.1\DigitalShop.Entity.csprojAssemblyReference.cache
+D:\DOAN\DigitalShop\DigitalShop.Model\obj\Release\netcoreapp2.1\DigitalShop.Entity.csproj.CoreCompileInputs.cache
+D:\DOAN\DigitalShop\DigitalShop.Model\obj\Release\netcoreapp2.1\DigitalShop.Entity.AssemblyInfoInputs.cache
+D:\DOAN\DigitalShop\DigitalShop.Model\obj\Release\netcoreapp2.1\DigitalShop.Entity.AssemblyInfo.cs
+D:\DOAN\DigitalShop\DigitalShop.Model\obj\Release\netcoreapp2.1\DigitalShop.Entity.dll
+D:\DOAN\DigitalShop\DigitalShop.Model\obj\Release\netcoreapp2.1\DigitalShop.Entity.pdb
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitalShop.Model\bin\Release\netcoreapp2.1\DigitalShop.Entity.deps.json
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitalShop.Model\bin\Release\netcoreapp2.1\DigitalShop.Entity.dll
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitalShop.Model\bin\Release\netcoreapp2.1\DigitalShop.Entity.pdb
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitalShop.Model\obj\Release\netcoreapp2.1\DigitalShop.Entity.csprojAssemblyReference.cache
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitalShop.Model\obj\Release\netcoreapp2.1\DigitalShop.Entity.AssemblyInfoInputs.cache
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitalShop.Model\obj\Release\netcoreapp2.1\DigitalShop.Entity.AssemblyInfo.cs
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitalShop.Model\obj\Release\netcoreapp2.1\DigitalShop.Entity.csproj.CoreCompileInputs.cache
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitalShop.Model\obj\Release\netcoreapp2.1\DigitalShop.Entity.dll
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitalShop.Model\obj\Release\netcoreapp2.1\DigitalShop.Entity.pdb

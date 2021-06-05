@@ -1,0 +1,14 @@
+D:\DOAN\DigitalShop\DigitialShop.Service\bin\Debug\netcoreapp2.1\DigitalShop.Service.deps.json
+D:\DOAN\DigitalShop\DigitialShop.Service\bin\Debug\netcoreapp2.1\DigitalShop.Service.runtimeconfig.json
+D:\DOAN\DigitalShop\DigitialShop.Service\bin\Debug\netcoreapp2.1\DigitalShop.Service.runtimeconfig.dev.json
+D:\DOAN\DigitalShop\DigitialShop.Service\bin\Debug\netcoreapp2.1\DigitalShop.Service.dll
+D:\DOAN\DigitalShop\DigitialShop.Service\bin\Debug\netcoreapp2.1\DigitalShop.Service.pdb
+D:\DOAN\DigitalShop\DigitialShop.Service\bin\Debug\netcoreapp2.1\DigitalShop.Entity.dll
+D:\DOAN\DigitalShop\DigitialShop.Service\bin\Debug\netcoreapp2.1\DigitalShop.Entity.pdb
+D:\DOAN\DigitalShop\DigitialShop.Service\obj\Debug\netcoreapp2.1\DigitalShop.Service.csprojAssemblyReference.cache
+D:\DOAN\DigitalShop\DigitialShop.Service\obj\Debug\netcoreapp2.1\DigitalShop.Service.csproj.CoreCompileInputs.cache
+D:\DOAN\DigitalShop\DigitialShop.Service\obj\Debug\netcoreapp2.1\DigitalShop.Service.AssemblyInfoInputs.cache
+D:\DOAN\DigitalShop\DigitialShop.Service\obj\Debug\netcoreapp2.1\DigitalShop.Service.AssemblyInfo.cs
+D:\DOAN\DigitalShop\DigitialShop.Service\obj\Debug\netcoreapp2.1\DigitalShop.Service.csproj.CopyComplete
+D:\DOAN\DigitalShop\DigitialShop.Service\obj\Debug\netcoreapp2.1\DigitalShop.Service.dll
+D:\DOAN\DigitalShop\DigitialShop.Service\obj\Debug\netcoreapp2.1\DigitalShop.Service.pdb

@@ -1,0 +1,29 @@
+D:\DOAN\DigitalShop\DigitialShop.Service\bin\Release\netcoreapp2.1\DigitalShop.Service.deps.json
+D:\DOAN\DigitalShop\DigitialShop.Service\bin\Release\netcoreapp2.1\DigitalShop.Service.runtimeconfig.json
+D:\DOAN\DigitalShop\DigitialShop.Service\bin\Release\netcoreapp2.1\DigitalShop.Service.runtimeconfig.dev.json
+D:\DOAN\DigitalShop\DigitialShop.Service\bin\Release\netcoreapp2.1\DigitalShop.Service.dll
+D:\DOAN\DigitalShop\DigitialShop.Service\bin\Release\netcoreapp2.1\DigitalShop.Service.pdb
+D:\DOAN\DigitalShop\DigitialShop.Service\bin\Release\netcoreapp2.1\DigitalShop.Entity.dll
+D:\DOAN\DigitalShop\DigitialShop.Service\bin\Release\netcoreapp2.1\DigitalShop.Entity.pdb
+D:\DOAN\DigitalShop\DigitialShop.Service\obj\Release\netcoreapp2.1\DigitalShop.Service.csprojAssemblyReference.cache
+D:\DOAN\DigitalShop\DigitialShop.Service\obj\Release\netcoreapp2.1\DigitalShop.Service.csproj.CoreCompileInputs.cache
+D:\DOAN\DigitalShop\DigitialShop.Service\obj\Release\netcoreapp2.1\DigitalShop.Service.AssemblyInfoInputs.cache
+D:\DOAN\DigitalShop\DigitialShop.Service\obj\Release\netcoreapp2.1\DigitalShop.Service.AssemblyInfo.cs
+D:\DOAN\DigitalShop\DigitialShop.Service\obj\Release\netcoreapp2.1\DigitalShop.Service.csproj.CopyComplete
+D:\DOAN\DigitalShop\DigitialShop.Service\obj\Release\netcoreapp2.1\DigitalShop.Service.dll
+D:\DOAN\DigitalShop\DigitialShop.Service\obj\Release\netcoreapp2.1\DigitalShop.Service.pdb
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitialShop.Service\bin\Release\netcoreapp2.1\DigitalShop.Service.deps.json
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitialShop.Service\bin\Release\netcoreapp2.1\DigitalShop.Service.runtimeconfig.json
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitialShop.Service\bin\Release\netcoreapp2.1\DigitalShop.Service.runtimeconfig.dev.json
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitialShop.Service\bin\Release\netcoreapp2.1\DigitalShop.Service.dll
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitialShop.Service\bin\Release\netcoreapp2.1\DigitalShop.Service.pdb
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitialShop.Service\bin\Release\netcoreapp2.1\DigitalShop.Entity.dll
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitialShop.Service\bin\Release\netcoreapp2.1\DigitalShop.Entity.pdb
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitialShop.Service\obj\Release\netcoreapp2.1\DigitalShop.Service.csprojAssemblyReference.cache
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitialShop.Service\obj\Release\netcoreapp2.1\DigitalShop.Service.AssemblyInfoInputs.cache
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitialShop.Service\obj\Release\netcoreapp2.1\DigitalShop.Service.AssemblyInfo.cs
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitialShop.Service\obj\Release\netcoreapp2.1\DigitalShop.Service.csproj.CoreCompileInputs.cache
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitialShop.Service\obj\Release\netcoreapp2.1\DigitalShop.Service.csproj.CopyComplete
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitialShop.Service\obj\Release\netcoreapp2.1\DigitalShop.Service.dll
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitialShop.Service\obj\Release\netcoreapp2.1\DigitalShop.Service.pdb
+H:\Anh Lâm\MaiVanTuyen_1551059_DATN\DigitalShop\DigitialShop.Service\obj\Release\netcoreapp2.1\DigitalShop.Service.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\DOAN\DigitalShop\DigitalShop.Migration\bin\Debug\netcoreapp2.1\DigitalShop.Migration.deps.json
+D:\DOAN\DigitalShop\DigitalShop.Migration\bin\Debug\netcoreapp2.1\DigitalShop.Migration.runtimeconfig.json
+D:\DOAN\DigitalShop\DigitalShop.Migration\bin\Debug\netcoreapp2.1\DigitalShop.Migration.runtimeconfig.dev.json
+D:\DOAN\DigitalShop\DigitalShop.Migration\bin\Debug\netcoreapp2.1\DigitalShop.Migration.dll
+D:\DOAN\DigitalShop\DigitalShop.Migration\bin\Debug\netcoreapp2.1\DigitalShop.Model.dll
+D:\DOAN\DigitalShop\DigitalShop.Migration\bin\Debug\netcoreapp2.1\DigitialShop.Service.dll
+D:\DOAN\DigitalShop\DigitalShop.Migration\bin\Debug\netcoreapp2.1\DigitalShop.Model.pdb
+D:\DOAN\DigitalShop\DigitalShop.Migration\bin\Debug\netcoreapp2.1\DigitialShop.Service.pdb
+D:\DOAN\DigitalShop\DigitalShop.Migration\obj\Debug\netcoreapp2.1\DigitalShop.Migration.csprojResolveAssemblyReference.cache
+D:\DOAN\DigitalShop\DigitalShop.Migration\obj\Debug\netcoreapp2.1\DigitalShop.Migration.csproj.CoreCompileInputs.cache
+D:\DOAN\DigitalShop\DigitalShop.Migration\obj\Debug\netcoreapp2.1\DigitalShop.Migration.AssemblyInfoInputs.cache
+D:\DOAN\DigitalShop\DigitalShop.Migration\obj\Debug\netcoreapp2.1\DigitalShop.Migration.AssemblyInfo.cs
+D:\DOAN\DigitalShop\DigitalShop.Migration\bin\Debug\netcoreapp2.1\DigitalShop.Migration.pdb
+D:\DOAN\DigitalShop\DigitalShop.Migration\obj\Debug\netcoreapp2.1\DigitalShop.Migration.dll
+D:\DOAN\DigitalShop\DigitalShop.Migration\obj\Debug\netcoreapp2.1\DigitalShop.Migration.pdb

@@ -1,0 +1,113 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Login</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="~/Admin/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <!-- MetisMenu CSS -->
+    <link href="~/Admin/vendor/metisMenu/metisMenu.min.css" rel="stylesheet" />
+    <!-- Custom CSS -->
+    <link href="~/Admin/dist/css/sb-admin-2.min.css" rel="stylesheet" />
+    <!-- Custom Fonts -->
+    <link href="~/Admin/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" />
+
+</head>
+
+<body>
+    <form id="formAdminLogin">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4 col-md-offset-4">
+                    <div class="login-panel panel panel-default">
+                        <div class="panel-heading">
+                            <h3 class="panel-title">Please Sign In</h3>
+                        </div>
+                        <div class="panel-body">
+                            <fieldset>
+                                <div class="form-group">
+                                    <input class="form-control" placeholder="User name" name="userNameAdmin" type="text" autofocus id="userNameAdmin">
+                                </div>
+                                <div class="form-group">
+                                    <input class="form-control" placeholder="Password" name="passWordAdmin" type="password" value="" id="passWordAdmin">
+                                </div>
+                                <div class="checkbox">
+                                    <label>
+                                        <input name="remember" type="checkbox" id="checkRemember">Remember Me
+                                    </label>
+                                </div>
+                                <!-- Change this to a button or input when using this as a form -->
+                                <button type="submit"  class="btn btn-lg btn-success btn-block" disabled id="btnLoginAdmin">Login</button>
+                            </fieldset>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </form>
+    <!-- jQuery -->
+    <script src="~/Admin/vendor/jquery/jquery.min.js"></script>
+    <!-- Bootstrap Core JavaScript -->
+    <script src="~/Admin/vendor/bootstrap/js/bootstrap.min.js"></script>
+    <!-- Metis Menu Plugin JavaScript -->
+    <script src="~/Admin/vendor/metisMenu/metisMenu.min.js"></script>
+    <!-- Custom Theme JavaScript -->
+    <script src="~/Admin/dist/js/sb-admin-2.min.js"></script>
+
+    <!--Validation form-->
+    <script src="~/js/jquery.validate.min.js"></script>
+    <script src="~/js/FormValidation/loginAdminValidation.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            console.log($("#formAdminLogin").valid());
+            $("#formAdminLogin").keyup(function () {
+                if ($("#formAdminLogin").valid()) {
+                    $('#btnLoginAdmin').prop('disabled', false);
+                }
+                else {
+                    $('#btnLoginAdmin').prop('disabled', true);
+                }
+            });
+        });
+    </script>
+    <!--End Validation form-->
+    <script type="text/javascript">
+        $(document).ready(function () {
+
+            $("#formAdminLogin").submit(function () {
+                
+                $.ajax({
+                    async: true,
+                    method: "Get",
+                    url: '@Url.Action("CheckLogin", "AdminLogin")',
+                    data: {
+                        userName: $("#userNameAdmin").val(),
+                        passWord: $("#passWordAdmin").val(),
+                        rememberme: document.getElementById('checkRemember').checked
+                    },
+                    success: function (response) {
+                        if (response == false) {
+                            alert("Incorrect username or password !");
+                        }
+                        else {
+                            window.location.href = '@Url.Action("Index", "HomeAdmin")'
+                        }
+                    },
+                    error: function () {
+                        alert("Fail !");
+                    }
+                });
+                return false;
+            });
+        });
+    </script>
+</body>
+</html>
